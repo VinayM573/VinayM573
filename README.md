@@ -27,9 +27,9 @@
 - Full stack data platforms or intelligent dashboards
 
 ## 📫 Reach Me
-- Email: vinay.your@email.com *(update this with your actual contact)*
+- Email: vinayykumar93@gmail.com
 - GitHub: [@VinayM573](https://github.com/VinayM573)
-- LinkedIn: *Add your LinkedIn profile link here*
+- LinkedIn: www.linkedin.com/in/vinay-kumar93
 
 ## 😄 Pronouns
 He/Him
